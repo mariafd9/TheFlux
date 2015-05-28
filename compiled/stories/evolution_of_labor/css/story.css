@@ -1,0 +1,15 @@
+#story-cover > .story-cover-content > h1 {
+	color:black;
+	text-shadow:none;
+}
+
+#story-cover > .story-cover-content > .lead {
+	color:black;
+	text-shadow:none;
+}
+
+#story-cover > .story-cover-content > .byline {
+	color:black;
+	text-shadow:none;
+}
+
