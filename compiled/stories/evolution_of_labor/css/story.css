@@ -1,5 +1,5 @@
 #story-cover > .story-cover-content > h1 {
-	color:black;
+	color:#990000;
 	text-shadow:none;
 }
 
@@ -13,3 +13,10 @@
 	text-shadow:none;
 }
 
+.noborder {
+	    overflow-x:hidden;
+}
+
+blockquote {
+	color:#990000;
+}
