@@ -1,3 +1,8 @@
+.story-cover-image {
+	max-width: 100%;
+	max-height: auto;	
+}
+
 #story-cover > .story-cover-content > h1 {
 	color:#990000;
 	text-shadow:none;
@@ -19,4 +24,5 @@
 
 blockquote {
 	color:#990000;
+	position: ;
 }
