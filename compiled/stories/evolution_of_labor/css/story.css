@@ -38,7 +38,17 @@ blockquote {
 
 }
 
-.profile-item {
+.container-fluid {
+	display: inline-block;
+	width: 100%;
+}
+.fillerColor { background: rgba(153,00,00, .75); width: 100%; height: 100%; position: absolute; }
+.profile-nav a.profile-button { background: none; padding: 0; }
+.p10 { padding: 10px; }
+.profile-nav a.profile-button .profile-button-background { box-shadow: none;}
+.profile-nav a.profile-button h2, .profile-nav a.profile-button p { color: #FFF; }
+
+/*.profile-item {
 	border-style: solid;
 	border-width: 5px;
 	background-color: #900;
@@ -49,11 +59,6 @@ blockquote {
 	height: 271px;
 
 }
-
-.container-fluid {
-	display: inline-block;
-}
-
 .profile-button-content {
 	color:white;
 	padding-left: 30px;
@@ -68,7 +73,11 @@ blockquote {
 
 .profile-button-content > p {
 	font-size:12pt;
-}
+}*/
+
+hr { width: 100%;}
+hr:after { content: none; }
+
 
 .explainer {
 	border-color:#990000;
