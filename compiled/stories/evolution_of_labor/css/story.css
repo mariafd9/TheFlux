@@ -80,12 +80,11 @@ hr:after { content: none; }
 
 
 .explainer {
-	border-color:#990000;
-	border-style:solid;
 	border-width:2px;
 	padding-left:20px;
 	padding-right:20px;
 	padding-bottom:30px;
+	float: top;
 }
 
 .explainer > center > h2 {
@@ -98,6 +97,7 @@ hr:after { content: none; }
 
 .profile-intro {
 	font-family: 'Source Sans Pro', sans-serif;
+	padding-bottom: 35px;
 }
 
 .block {
@@ -155,3 +155,15 @@ center > .lead {
 	display:inline-block;
 	margin:auto;
 }
+
+.displaytext {
+	color: #313131;
+	font-size: 20pt;
+	font-weight: 600;
+	margin-left: -90;
+	margin-right: -90;
+	margin-top: 5;
+	margin-bottom: 5;
+	text-align: center;
+}
+
