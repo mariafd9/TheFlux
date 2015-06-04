@@ -175,4 +175,7 @@ center > .lead {
 	margin-bottom: 5;
 	text-align: center;
 }
-
+.end-line {
+	float: left;
+	width: 125%;
+}
