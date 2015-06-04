@@ -178,4 +178,5 @@ center > .lead {
 .end-line {
 	float: left;
 	width: 125%;
+	display: block;
 }
