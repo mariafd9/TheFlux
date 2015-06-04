@@ -176,7 +176,7 @@ center > .lead {
 	text-align: center;
 }
 .end-line {
-	float: left;
-	width: 125%;
+	margin-left: -3em;
+	width: 115%;
 	display: block;
 }
